@@ -1,2 +1,1 @@
-# wb-parsing
-wb-parsing
+**Программа для парсинга данных с карточек товаров WildBerries**
